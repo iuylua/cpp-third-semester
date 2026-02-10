@@ -1,0 +1,5 @@
+/Users/iuylua/Desktop/lab2/cmake-build-debug/CMakeFiles/lab2.dir
+/Users/iuylua/Desktop/lab2/cmake-build-debug/CMakeFiles/run_tests.dir
+/Users/iuylua/Desktop/lab2/cmake-build-debug/CMakeFiles/test.dir
+/Users/iuylua/Desktop/lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/iuylua/Desktop/lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

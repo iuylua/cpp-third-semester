@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Файлы редакторов
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Скомпилированные файлы
+*.exe
+*.out
+*.o
+*.obj
+*.dylib
+a.out
+
+# Документы
+*.docx
+*.tmp
+~$*

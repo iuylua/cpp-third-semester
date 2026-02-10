@@ -1,0 +1,23 @@
+# ninja log v6
+9	1551	1765263399491056479	CMakeFiles/lab2.dir/main.cpp.o	cf961c6a667cf12e
+10	1550	1765263399492043368	CMakeFiles/lab2.dir/GameRules.cpp.o	4a686f74532ce9cd
+11	1695	1765263399492551291	CMakeFiles/lab2.dir/FileHandler.cpp.o	7e073edccbb33e85
+11	1602	1765263399493012756	CMakeFiles/lab2.dir/GameController.cpp.o	c26e515ba710e160
+10	1733	1765263399492283080	CMakeFiles/lab2.dir/Universe.cpp.o	6249127f20bb2aa2
+10	320	1765263717755038348	lab2	c22bd2122a0c1de5
+27	1769	1765264840855873504	CMakeFiles/run_tests.dir/GameRules.cpp.o	6ed03fd3b7f95c1e
+27	1839	1765264840856227336	CMakeFiles/run_tests.dir/Universe.cpp.o	60b189bc10b89eaf
+28	1901	1765264840856537793	CMakeFiles/run_tests.dir/FileHandler.cpp.o	d30f4f3618f4713b
+25	2110	1765264840853941385	CMakeFiles/run_tests.dir/tests/GameRulesTests.cpp.o	47400c5fb8e1d8a4
+26	2144	1765264840855139673	CMakeFiles/run_tests.dir/tests/UniverseTests.cpp.o	3a5f16fb07812a12
+27	2262	1765264840855442922	CMakeFiles/run_tests.dir/tests/FileHandlerTests.cpp.o	9cd47766e5d90e0c
+1770	2589	1765264842598366131	CMakeFiles/run_tests.dir/GameController.cpp.o	47564b627b5140f6
+2589	2748	1765264843418241227	run_tests	d2493f5e4a394d7e
+27	1533	1765265269902824229	CMakeFiles/run_tests.dir/tests/GameRulesTests.cpp.o	47400c5fb8e1d8a4
+28	1534	1765265269903924351	CMakeFiles/run_tests.dir/tests/UniverseTests.cpp.o	3a5f16fb07812a12
+29	1616	1765265269904210933	CMakeFiles/run_tests.dir/tests/FileHandlerTests.cpp.o	9cd47766e5d90e0c
+1616	1780	1765265271491858661	run_tests	d2493f5e4a394d7e
+12	1289	1765267638395008728	CMakeFiles/run_tests.dir/tests/GameRulesTests.cpp.o	47400c5fb8e1d8a4
+13	1290	1765267638395966151	CMakeFiles/run_tests.dir/tests/UniverseTests.cpp.o	3a5f16fb07812a12
+13	1366	1765267638396298612	CMakeFiles/run_tests.dir/tests/FileHandlerTests.cpp.o	9cd47766e5d90e0c
+1366	1531	1765267639749194524	run_tests	d2493f5e4a394d7e

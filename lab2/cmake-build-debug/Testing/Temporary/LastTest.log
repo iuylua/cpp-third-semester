@@ -1,0 +1,65 @@
+Start testing: Dec 15 10:25 +07
+----------------------------------------------------------
+1/1 Testing: AllTests
+1/1 Test: AllTests
+Command: "/Users/iuylua/Desktop/lab2/cmake-build-debug/run_tests"
+Directory: /Users/iuylua/Desktop/lab2/cmake-build-debug
+"AllTests" start time: Dec 15 10:25 +07
+Output:
+----------------------------------------------------------
+Running main() from /private/tmp/googletest-20250808-4877-y4cffa/googletest-1.17.0/googletest/src/gtest_main.cc
+[==========] Running 16 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 5 tests from GameRulesTest
+[ RUN      ] GameRulesTest.DefaultConstructor
+[       OK ] GameRulesTest.DefaultConstructor (0 ms)
+[ RUN      ] GameRulesTest.CustomRulesParsing
+[       OK ] GameRulesTest.CustomRulesParsing (0 ms)
+[ RUN      ] GameRulesTest.ToStringMethod
+[       OK ] GameRulesTest.ToStringMethod (0 ms)
+[ RUN      ] GameRulesTest.InvalidRulesFallback
+[       OK ] GameRulesTest.InvalidRulesFallback (0 ms)
+[ RUN      ] GameRulesTest.SpacesInRules
+[       OK ] GameRulesTest.SpacesInRules (0 ms)
+[----------] 5 tests from GameRulesTest (0 ms total)
+
+[----------] 6 tests from UniverseTest
+[ RUN      ] UniverseTest.Constructor
+[       OK ] UniverseTest.Constructor (0 ms)
+[ RUN      ] UniverseTest.SetAndGetCell
+[       OK ] UniverseTest.SetAndGetCell (0 ms)
+[ RUN      ] UniverseTest.Clear
+[       OK ] UniverseTest.Clear (0 ms)
+[ RUN      ] UniverseTest.WrapCoordinates
+[       OK ] UniverseTest.WrapCoordinates (0 ms)
+[ RUN      ] UniverseTest.StillLifeBlock
+[       OK ] UniverseTest.StillLifeBlock (0 ms)
+[ RUN      ] UniverseTest.TickMultipleGenerations
+[       OK ] UniverseTest.TickMultipleGenerations (0 ms)
+[----------] 6 tests from UniverseTest (0 ms total)
+
+[----------] 5 tests from FileHandlerTest
+[ RUN      ] FileHandlerTest.LoadFromValidFile
+[       OK ] FileHandlerTest.LoadFromValidFile (0 ms)
+[ RUN      ] FileHandlerTest.SaveToFile
+[       OK ] FileHandlerTest.SaveToFile (0 ms)
+[ RUN      ] FileHandlerTest.SaveAndLoadRoundtrip
+[       OK ] FileHandlerTest.SaveAndLoadRoundtrip (0 ms)
+[ RUN      ] FileHandlerTest.LoadNonExistentFileThrows
+[       OK ] FileHandlerTest.LoadNonExistentFileThrows (0 ms)
+[ RUN      ] FileHandlerTest.FileWithComments
+[       OK ] FileHandlerTest.FileWithComments (0 ms)
+[----------] 5 tests from FileHandlerTest (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 16 tests from 3 test suites ran. (2 ms total)
+[  PASSED  ] 16 tests.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"AllTests" end time: Dec 15 10:25 +07
+"AllTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 15 10:25 +07
